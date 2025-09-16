@@ -1,0 +1,2 @@
+audios filter=lfs diff=lfs merge=lfs -text
+audios/** filter=lfs diff=lfs merge=lfs -text
